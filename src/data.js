@@ -54,7 +54,7 @@ export const skills = [
   "JavaScript",
   "React",
   "Express.js",
-  "Node",
-  "GraphQL",
-  "Material UI",
+  "Node.js",
+  "postgresSQL",
+  "MongoDB",
 ];

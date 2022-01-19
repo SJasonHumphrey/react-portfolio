@@ -1,4 +1,3 @@
-// src/components/Skills.js
 
 import { BadgeCheckIcon, ChipIcon } from "@heroicons/react/solid";
 import React from "react";
@@ -14,9 +13,11 @@ export default function Skills() {
             Skills &amp; Technologies
           </h1>
           <p className="text-base leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto">
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nisi sit
-            ipsa delectus eum quo voluptas aspernatur accusantium distinctio
-            possimus est.
+            I am always learning and improving on the skills I have acquired.<br>
+            </br> 
+            While always looking to add new skills to my stack.<br>
+            </br>
+            <strong><em>"learn everything you can, any time you can, there will always come a time when you will be grateful you did."</em></strong>
           </p>
         </div>
         <div className="flex flex-wrap lg:w-4/5 sm:mx-auto sm:mb-2 -mx-2">
