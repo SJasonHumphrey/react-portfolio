@@ -1,5 +1,7 @@
 import { ArrowRightIcon } from "@heroicons/react/solid";
 import React from "react";
+import { FaGithubSquare } from "react-icons/fa";
+import {BsLinkedin} from 'react-icons/bs';
 
 export default function Navbar() {
   return (
@@ -21,6 +23,12 @@ export default function Navbar() {
             Testimonials
           </a>
         </nav>
+        <a href="https://www.linkedin.com/in/jasonhumphreytn/" rel="noreferrer" target="_blank">
+        <BsLinkedin className="text-white text-3xl m-2"/>
+        </a>
+        <a href="https://github.com/SJasonHumphrey" rel="noreferrer" target="_blank">
+        <FaGithubSquare className="text-white text-4xl m-2"/>
+        </a>
         <a
           href="#contact"
           className="inline-flex items-center bg-gray-800 border-0 py-1 px-3 focus:outline-none hover:bg-gray-500 rounded text-white mt-4 md:mt-0">
