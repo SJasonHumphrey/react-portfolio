@@ -19,7 +19,7 @@ export default function Contact() {
           <div className="bg-gray-900 relative flex flex-wrap py-6 rounded shadow-md text-white">
             <div className="lg:w-1/3 px-8">
               <h2 className="title-font font-semibold text-white tracking-widest text-xs">
-                Location
+                LOCATION:
               </h2>
               <p className="mt-1 text-sm">
                 Nashville, Tennessee
@@ -27,15 +27,15 @@ export default function Contact() {
             </div>
             <div className="lg:w-1/2 px-6 mt-4 lg:mt-0">
               <h2 className="title-font font-semibold text-white tracking-widest text-xs">
-                EMAIL
+                EMAIL:
               </h2>
               <a className="text-indigo-400 leading-relaxed text-xs">
               sjasonhumphrey@yahoo.com
               </a>
               <h2 className="title-font font-semibold text-white tracking-widest text-xs mt-4">
-                PHONE
+                PHONE:
               </h2>
-              <p className="leading-relaxed">123-456-7890</p>
+              <p className="leading-relaxed">Available Upon Request</p>
             </div>
           </div>
         </div>
@@ -47,8 +47,7 @@ export default function Contact() {
             Hire Me
           </h2>
           <p className="leading-relaxed mb-5">
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Illum
-            suscipit officia aspernatur veritatis. Asperiores, aliquid?
+            PLEASE CONTACT ME:
           </p>
           <div className="relative mb-4">
             <label htmlFor="name" className="leading-7 text-sm text-gray-400">

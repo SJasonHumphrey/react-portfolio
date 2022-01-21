@@ -1,35 +1,35 @@
 export const projects = [
   {
-    title: "React Reserve",
-    subtitle: "MERN Stack",
+    title: "E-Commerce",
+    subtitle: "The Low End",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "A full-stack application that uses React, Redux, GraphQL, Sass and Firebase. It also uses the Stripe API for online purchasing. It is a fictional site for a high-end music retailer.",
     image: "./project-1.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://the-low-end.netlify.app/",
   },
   {
-    title: "React Tracks",
-    subtitle: "React and Python",
+    title: "Mern Stack",
+    subtitle: "Coding Buddy",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "It was designed to be a resource for new developers. It has a typing tutor, technical quiz, flashcards, codepen and developer resource links. It uses one API for the technical trivia questions.",
     image: "./project-2.gif",
-    link: "https://reactbootcamp.com",
+    link: "http://www.coding-buddy.club/",
   },
   {
-    title: "DevChat",
-    subtitle: "React and Firebase",
+    title: "React and CSS",
+    subtitle: "Monster Match",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "A small app built using React and CSS. It is based on the classic card game Memory. The cards feature the familiar faces of the best known Universal Monsters. Great to play with your friends and family.",
     image: "./project-3.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://dreamy-curran-6e407a.netlify.app/",
   },
   {
-    title: "Epic Todo App",
-    subtitle: "React Hooks",
+    title: "Finding Streamo",
+    subtitle: "Vanilla Javascript",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      " An app that provides the user with information on movies. It will show if a movie is streaming and which service it can currently be seen on. The OMDB API was used.",
     image: "./project-4.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://findingstream.netlify.app/",
   },
 ];
 
