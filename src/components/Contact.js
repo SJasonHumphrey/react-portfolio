@@ -117,6 +117,7 @@ export default function Contact() {
           </button>
         </form>
       </div>
+      <p>&copy; Jason Humphrey {new Date().getFullYear()}. All rights reserved.</p>
     </section>
   );
 }
