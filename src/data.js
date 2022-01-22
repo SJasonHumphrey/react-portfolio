@@ -37,7 +37,7 @@ export const testimonials = [
   {
     quote:
       `"Every Project Jason Presents Leaves Me Absolutely Floored! I Aspire To Be As Talented As He Is With My Coding One Day."`,
-    image: "./Andreana.jpeg",
+    image: "./Andrena.jpeg",
     name: "Andrena Alexandre",
     company: "DigitalCrafts",
   },
