@@ -43,10 +43,10 @@ export const testimonials = [
   },
   {
     quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-    image: "https://randomuser.me/api/portraits/men/94.jpg",
-    name: "Ruben Alvarez",
-    company: "Dooble.io",
+    `"Hey, more testimonials coming soon. Your's could be next! Drop me an email and let me know what you think."`,
+    image: "./jason_test.png",
+    name: "Jason Humphrey",
+    company: "jasonhumphrey.io",
   },
 ];
 
