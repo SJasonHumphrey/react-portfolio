@@ -43,7 +43,7 @@ export const testimonials = [
   },
   {
     quote:
-    `"I have had the privilege of working with Jason on several projects and have been impressed time and time again by this drive and commitment to producing excellent software. He is a true team player and I would happily work with him again if given the opportunity!"`,
+    `"I have had the privilege of working with Jason on several projects and have been impressed time and time again by his drive and commitment to producing excellent software. He is a true team player and I would happily work with him again if given the opportunity!"`,
     image: "./CC.jpeg",
     name: "Carol Carter",
     company: "Software Engineer",
