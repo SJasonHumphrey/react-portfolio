@@ -15,7 +15,7 @@ export default function Skills() {
           <p className="text-base leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto">
             I am always learning and improving on the skills I have acquired.<br>
             </br> 
-            While always looking to add new skills to my stack.<br>
+            While always looking to add new skills.<br>
             </br>
             <strong><em>"learn everything you can, any time you can, there will always come a time when you will be grateful you did."</em></strong>
           </p>
