@@ -36,14 +36,14 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      `"Every Project Jason Presents Leaves Me Absolutely Floored! I Aspire To Be As Talented As He Is With My Coding One Day."`,
+      "Every Project Jason Presents Leaves Me Absolutely Floored! I Aspire To Be As Talented As He Is With My Coding One Day.",
     image: "./Andrena.jpeg",
     name: "Andrena Alexandre",
     company: "Software Engineer",
   },
   {
     quote:
-    `"I have had the privilege of working with Jason on several projects and have been impressed time and time again by his drive and commitment to producing excellent software. He is a true team player and I would happily work with him again if given the opportunity!"`,
+    "I have had the privilege of working with Jason on several projects and have been impressed time and time again by his drive and commitment to producing excellent software. He is a true team player and I would happily work with him again if given the opportunity!",
     image: "./CC.jpeg",
     name: "Carol Carter",
     company: "Software Engineer",

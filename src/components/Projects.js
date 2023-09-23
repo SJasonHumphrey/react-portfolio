@@ -1,5 +1,5 @@
 import React from 'react'
-import { CameraIcon } from "@heroicons/react/solid";
+import { CameraIcon } from "@heroicons/react/24/solid";
 import { projects } from "../data";
 
 export default function Projects() {
