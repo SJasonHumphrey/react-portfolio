@@ -11,7 +11,7 @@ export default function About() {
                 designs.
               </h1>
               <p className="mb-8 leading-relaxed">
-              I’m A Professional <strong>Graphic Designer</strong>, Photographer, Web Developer and Motion Graphic Designer. I love to design things that catch the eye and engage people.
+              I’m A Professional <strong>Graphic Designer, Photographer, Web Developer</strong> and <strong>Motion Graphic Designer</strong>. I love to design things that catch the eye and engage people.
               </p>
               <div className="flex justify-center">
                 <a
