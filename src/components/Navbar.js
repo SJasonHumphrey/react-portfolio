@@ -1,6 +1,5 @@
-import { ArrowRightIcon } from "@heroicons/react/24/solid";
 import React from "react";
-import {BsLinkedin} from 'react-icons/bs';
+import {BsLinkedin, BsBehance, BsInstagram} from 'react-icons/bs';
 
 export default function Navbar() {
   return (
@@ -25,11 +24,11 @@ export default function Navbar() {
         <a href="https://www.linkedin.com/in/jasonhumphreytn/" rel="noreferrer" target="_blank">
         <BsLinkedin className="text-white text-3xl m-2"/>
         </a>
-        <a
-          href="#contact"
-          className="inline-flex items-center bg-gray-800 border-0 py-1 px-3 focus:outline-none hover:bg-gray-500 rounded text-white mt-4 md:mt-0">
-          Hire Me
-          <ArrowRightIcon className="w-4 h-4 ml-1" />
+        <a href="https://www.behance.net/jasonhumphrey1" rel="noreferrer" target="_blank">
+        <BsBehance className="text-white text-3xl m-2"/>
+        </a>
+        <a href="https://www.linkedin.com/in/jasonhumphreytn/" rel="noreferrer" target="_blank">
+        <BsInstagram className="text-white text-3xl m-2"/>
         </a>
         <img src="./idea.png" alt="idea animation" className="w-20 m-1"/>
       </div>
