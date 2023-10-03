@@ -52,7 +52,7 @@ export default function Contact() {
               <h2 className="title-font font-semibold text-white tracking-widest text-xs">
                 EMAIL:
               </h2>
-              <h2 className="text-indigo-400 leading-relaxed text-xs">
+              <h2 className="text-purple-700 leading-relaxed text-xs">
                 sjasonhumphrey@yahoo.com
               </h2>
               <h2 className="title-font font-semibold text-white tracking-widest text-xs mt-4">
@@ -112,7 +112,7 @@ export default function Contact() {
           </div>
           <button
             type="submit"
-            className="text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg">
+            className="text-white bg-purple-700 border-0 py-2 px-6 focus:outline-none hover:bg-orange-400 rounded text-lg">
             Submit
           </button>
         </form>

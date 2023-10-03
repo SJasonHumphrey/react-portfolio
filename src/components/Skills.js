@@ -3,6 +3,7 @@ import { CpuChipIcon } from "@heroicons/react/24/solid";
 import {CheckBadgeIcon} from "@heroicons/react/24/solid"
 import React from "react";
 import { skills } from "../data";
+import { Reveal } from "react-awesome-reveal";
 
 export default function Skills() {
   return (
@@ -21,6 +22,7 @@ export default function Skills() {
             <strong><em>"learn everything you can, any time you can, there will always come a time when you will be grateful you did."</em></strong>
           </p>
         </div>
+        <Reveal>
         <div className="flex flex-wrap lg:w-4/5 sm:mx-auto sm:mb-2 -mx-2">
           {skills.map((skill) => (
             <div key={skill} className="p-2 sm:w-1/2 w-full">
@@ -33,6 +35,7 @@ export default function Skills() {
             </div>
           ))}
         </div>
+        </Reveal>
       </div>
     </section>
   );

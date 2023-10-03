@@ -3,7 +3,7 @@ import {BsLinkedin, BsBehance, BsInstagram} from 'react-icons/bs';
 
 export default function Navbar() {
   return (
-    <header className="bg-gray-800 md:sticky top-0 z-10">
+    <header className="bg-gray-900 md:sticky top-0 z-10">
       <div className="container mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center">
         <a className="title-font font-medium text-white mb-4 md:mb-0" href="#about">
           <p className="ml-3 text-xl">
@@ -30,7 +30,6 @@ export default function Navbar() {
         <a href="https://www.linkedin.com/in/jasonhumphreytn/" rel="noreferrer" target="_blank">
         <BsInstagram className="text-white text-3xl m-2"/>
         </a>
-        <img src="./idea.png" alt="idea animation" className="w-20 m-1"/>
       </div>
     </header>
   );

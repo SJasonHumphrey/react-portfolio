@@ -1,4 +1,5 @@
 import React from "react";
+import { Reveal } from "react-awesome-reveal";
 
 export default function About() {
   return (
@@ -33,13 +34,15 @@ export default function About() {
             </a>
           </div>
         </div>
+        <Reveal>
         <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
           <img
             className="object-cover"
             alt="instagram post get fit"
-            src="./Get_Fit.png"
+            src="./Get_Fit.jpg"
           />
         </div>
+        </Reveal>
       </div>
     </section>
   );
