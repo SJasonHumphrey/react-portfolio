@@ -3,7 +3,7 @@ export const projects = [
     title: "Web Application",
     subtitle: "Web Design",
     description:
-      " An app that provides the user with information on movies. It will show if a movie is streaming and which service it can currently be seen on. The OMDB API was used.",
+      " An app that provides the user with information on movies. It will show if a movie is streaming and which service it can currently be seen on. The OMDB API was used",
     image: "./Streamo.png",
     link: "https://findingstream.netlify.app/",
   },
@@ -11,15 +11,15 @@ export const projects = [
     title: "E-Commerce",
     subtitle: "Web Design",
     description:
-      "A shoe sale ad created using Adobe Photoshop. It is an online shoe sale promotion to engage the user with a call to action. The color scheme is selected from the chosen shoe design for the ad.",
+      "A shoe sale ad created using Adobe Photoshop. It is an online shoe sale promotion to engage the user with a call to action. The color scheme is selected from the chosen shoe design for the ad",
     image: "./Shoe_Ad.png",
-    link: "https://sjasonhumphrey400d.myportfolio.com/shoe-ad",
+    link: "https://sjasonhumphrey400d.myportfolio.com/web-design",
   },
   {
     title: "Instagram Ad",
     subtitle: "Live Life to the Fullist",
     description:
-      "A Instagram post to engage the user to make them think. The color scheme is tied to the models dress and green is used as the background color. The font and kearning is used to draw the eye. This was done using Adobe Photoshop.",
+      "A Instagram post to engage the user to make them think. The color scheme is tied to the models dress and green is used as the background color. The font and kearning is used to draw the eye. This was done using Adobe Photoshop",
     image: "./girl_green_dress.png",
     link: "https://sjasonhumphrey400d.myportfolio.com/instagram-ad",
   },
@@ -27,7 +27,7 @@ export const projects = [
     title: "Concert Photography",
     subtitle: "Steve Vai",
     description:
-      "This is an example of my concert photography. This is a picture of Steve Vai taken at The Ogden Theater (Denver, Colorado) on 'The Story of Light Tour'. It was edited using Adobe Photoshop for color saturation and contrast.",
+      "This is an example of my concert photography. This is a picture of Steve Vai taken at The Ogden Theater (Denver, Colorado) on 'The Story of Light Tour'. It was edited using Adobe Photoshop for color saturation and contrast",
     image: "./steve_vai.png",
     link: "https://sjasonhumphrey400d.myportfolio.com/concert-photography",
   },
@@ -35,33 +35,17 @@ export const projects = [
     title: "Instagram Ad",
     subtitle: "Get Fit",
     description:
-      " An app that provides the user with information on movies. It will show if a movie is streaming and which service it can currently be seen on. The OMDB API was used.",
+      "An Instagran ad to get the user to take action and to think about fitness. It was created using Adobe Photoshop. The font used was Impact",
     image: "./get-fit-screenshot.png",
-    link: "https://findingstream.netlify.app/",
+    link: "https://portfolio.adobe.com/cdf08a22-dbbf-4d42-9a8d-6683815815e8/editor/instagram-ad-2",
   },
   {
-    title: "E-Commerce",
-    subtitle: "Web Design",
+    title: "Band Promotion",
+    subtitle: "Band Meets World",
     description:
-      "A shoe sale ad created using Adobe Photoshop. It is an online shoe sale promotion to engage the user with a call to action. The color scheme is selected from the chosen shoe design for the ad.",
-    image: "./Shoe_Ad.png",
-    link: "https://sjasonhumphrey400d.myportfolio.com/shoe-ad",
-  },
-  {
-    title: "Instagram Ad",
-    subtitle: "Live Life to the Fullist",
-    description:
-      "A Instagram post to engage the user to make them think. The color scheme is tied to the models dress and green is used as the background color. The font and kearning is used to draw the eye. This was done using Adobe Photoshop.",
-    image: "./girl_green_dress.png",
-    link: "https://sjasonhumphrey400d.myportfolio.com/instagram-ad",
-  },
-  {
-    title: "Concert Photography",
-    subtitle: "Steve Vai",
-    description:
-      "This is an example of my concert photography. This is a picture of Steve Vai taken at The Ogden Theater (Denver, Colorado) on 'The Story of Light Tour'. It was edited using Adobe Photoshop for color saturation and contrast.",
-    image: "./steve_vai.png",
-    link: "https://sjasonhumphrey400d.myportfolio.com/concert-photography",
+      "This was for a 90's cover band. It was used for multi-purpose advertistment and merchandise. It was created using Adobe Photoshop and multiple images used to reflect 90's nostalgia",
+    image: "./band_meets_world.jpeg",
+    link: "https://sjasonhumphrey400d.myportfolio.com/band-logo",
   },
 ];
 
