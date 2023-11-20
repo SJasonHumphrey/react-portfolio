@@ -37,7 +37,7 @@ export const projects = [
     description:
       "An Instagran ad to get the user to take action and to think about fitness. It was created using Adobe Photoshop. The font used was Impact",
     image: "./get-fit-screenshot.png",
-    link: "https://portfolio.adobe.com/cdf08a22-dbbf-4d42-9a8d-6683815815e8/editor/instagram-ad-2",
+    link: "https://sjasonhumphrey400d.myportfolio.com/instagram-ad-2",
   },
   {
     title: "Band Promotion",
